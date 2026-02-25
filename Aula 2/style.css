@@ -21,6 +21,6 @@ p{
     color: white;
     background-color: black;
 }
-a{
+a:hover{
     background-color: blueviolet;
 }

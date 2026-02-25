@@ -1,0 +1,12 @@
+a:hover{
+    background-color: rgb(71, 141, 100);
+}
+h1{
+    color: white;
+    background-color: rgb(120, 143, 124);
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(211, 234, 235);
+}
