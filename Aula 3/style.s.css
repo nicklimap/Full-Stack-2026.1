@@ -1,0 +1,22 @@
+body{
+    background-color: transparent;
+    border: inset;
+   
+}
+
+#a{
+   width: 600px;
+    background-color: lightgray;
+     
+}
+#b{
+    background-color: rgb(180, 172, 172);
+    width: 600px;
+   ;
+}
+
+#c{
+    border: inset;
+    border-color: lightslategray;
+    
+}
