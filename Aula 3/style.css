@@ -1,0 +1,66 @@
+#do{border-style: dotted;}
+#da{border-style: dashed;}
+#so{border-style: solid;}
+#db{border-style:double;}
+#ri{border-style :ridge}
+#gr{border-style:groove}
+#in{border-style: inset}
+#ou{border-style:outset}
+
+
+
+#ex{
+    font-size: 15px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 20px;
+    border: solid rgb(215, 135, 222);
+    border-radius: 20px;
+    border-width: 10px;
+    background-color: rgb(195, 155, 233);
+    color: crimson;
+    box-shadow: 10px 15px 3px rgb(85, 27, 139);
+}
+p{
+    display:block;   
+}
+
+
+a{
+    display:block;
+}
+
+#d1{
+   background-color: aqua;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+
+}
+#d2{
+    background-color: lightblue;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 500px;
+    right: 0px;
+    z-index: 1;
+
+}
+#d3{
+    background-color: blue;
+    width: 20px;
+    height: 20px;   
+    position: fixed;
+    bottom: 0px;
+    right:0px;
+    z-index:2;
+    
+
+}
+p:hover{
+    background-color: red;
+}
